@@ -1,2 +1,2 @@
-# jogo_nave
- Jogo nave 
+# jogo-nave-pygame
+ Jogo criado para testes da biblioteca pygame
